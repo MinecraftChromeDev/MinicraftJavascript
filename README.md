@@ -1,4 +1,6 @@
 Minicraft Javascript
+======
+
 <a href="https://MinecraftChromeDev.github.io/MinicraftJavascript">Play Here</a>
 
 HTML5 / Javascript Port of Minicraft, ported by Chi Hoang (chi@chi.ca) and hosted by Samdan9 (MinecraftChromeDev)
